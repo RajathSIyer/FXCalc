@@ -19,7 +19,10 @@
     -fx-text-fill: #395306;
     -fx-font-size: 25px;
 }
-
+.pane
+{
+	-fx-background-image: url('calc.jpg');
+}
 .func
 {
 	-fx-font-family:'Rampart One', cursive;
